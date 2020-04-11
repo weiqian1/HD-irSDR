@@ -1,0 +1,36 @@
+# *HD-irSDR*: An Integrative Sufficient Dimension Reduction in High Dimensions
+
+Maintainer: Wei Qian <weiqian@udel.edu>
+
+### Description
+
+HD-irSDR is a high-dimensional sufficient dimension reduction method for integrative analysis with sparsity learning. It aims to extract sufficient information in supervised fashion to achieve dimension reduction and variable selection for multi-source data simultaneously. This repo contains a MATLAB demo and implementation of HD-irSDR algorithm. 
+
+Detailed description of *HD-irSDR* is given in a technical report shown below.
+
+
+
+License: GPL-3 (refer to the LICENSE file for details).
+
+### Citing *HD-irSDR*
+
+If you find *HD-irSDR* useful in your study, please cite:
+
+    @article{qian2020nonconvex,
+    title={Nonconvex-regularized Integrative Sufficient Dimension Reduction with Applications to Multi-omics Data},
+    author={Qian, Wei and Ding, Shanshan and Ren, Chengle and Li, Riza C. and Ross, Karen E. and Wu, Cathy H.},
+    journal={submitted},
+    year={2020}
+    }
+  
+
+### Running Demo:
+0.	Add the folder `./MATLAB_fcn` to MATLAB search path
+0.	Use `demo1.m` and `demo2.m` to run high-dimensional integrative sufficient dimension reduction examples with HD-irSDR.
+
+
+
+
+
+
+
