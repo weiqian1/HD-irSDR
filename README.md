@@ -14,11 +14,11 @@ License: GPL-3 (refer to the LICENSE file for details).
 
 ### Citing *HD-irSDR*
 
-If you find *HD-irSDR* useful in your study, please cite:
+If you find *HD-irSDR* helpful, please cite:
 
     @article{qian2020nonconvex,
     title={Nonconvex-regularized Integrative Sufficient Dimension Reduction with Applications to Multi-omics Data},
-    author={Qian, Wei and Ding, Shanshan and Ren, Chengle and Li, Riza C. and Ross, Karen E. and Wu, Cathy H.},
+    author={Qian, Wei and Ding, Shanshan and Li, Riza C. and Ross, Karen E. and Wu, Cathy H.},
     journal={submitted},
     year={2020}
     }
