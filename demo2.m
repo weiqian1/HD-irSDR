@@ -42,7 +42,7 @@ lamb_num = 50;
 lambda_cand = exp(log(lamb_max)-(0:(lamb_num-1))*log(lamb_max/lamb_min)/(lamb_num-1));
 lambda_cand0 = repmat(lambda_cand,[ns,1]);
 Kfold = 10;
-dseq = [1,2];
+dseq = [1,1;1,2];
 
 %%%% run HD-irSDR
 vt = ones(p,1);
