@@ -16,9 +16,9 @@ License: GPL-3 (refer to the LICENSE file for details).
 
 If you find *HD-irSDR* helpful, please cite:
 
-    @article{qian2025integrative,
+    @article{ding2025integrative,
     title={An Integrative Dimension Reduction Approach for High-dimensional Multi-source Data},
-    author={Qian, Wei and Ding, Shanshan and Wu, Cathy H.},
+    author={Ding, Shanshan and Qian, Wei and Wu, Cathy H.},
     journal={submitted},
     year={2025}
     }
